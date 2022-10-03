@@ -6,7 +6,8 @@
 
 /* HEADER */
 .header{
-    background-color: rgb(82, 82, 253);
+    background-color: rgb(82, 82, 253); 
+    /* background img al posto di bg color */
     height: 500px;
     width: 100%;
 }
@@ -28,19 +29,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* FOOTER */
-.flexfooter-container{
+.footer-container{
     background-color: rgb(32, 32, 44);
     height: 500px;
     width: 100%;
