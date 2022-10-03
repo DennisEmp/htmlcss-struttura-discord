@@ -4,3 +4,44 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
+.header{
+    background-color: rgb(82, 82, 253);
+    height: 500px;
+    width: 100%;
+}
+
+
+
+/* MAIN */
+
+.flex-container{
+    background-color: #fff;
+    width: 100%;
+}
+
+
+.container-md{
+    margin: 0 auto;
+    padding: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+.flexfooter-container{
+    background-color: rgb(32, 32, 44);
+    height: 500px;
+    width: 100%;
+}
